@@ -4,9 +4,11 @@
 
 # misc
 .vscode
-# .env
+.env
 .DS_Store
-# .env.local
-# .env.development.local
-# .env.test.local
-# .env.production.local
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Not before to comment out the .env file before you upload it to heroku
