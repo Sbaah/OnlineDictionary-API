@@ -1,0 +1,22 @@
+{
+  "name": "web_service_db",
+  "version": "1.0.0",
+  "description": "web api with connection to mongodb",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "sefa baah acheamphour",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.12",
+    "nodemon": "^2.0.7",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
