@@ -1,3 +1,5 @@
+//  Heroku link: https://online-dictionary-api.herokuapp.com/
+
 // Web service setup
 require('dotenv').config();
 
