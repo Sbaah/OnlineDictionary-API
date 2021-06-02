@@ -11,4 +11,4 @@
 .env.test.local
 .env.production.local
 
-# Not before to comment out the .env file before you upload it to heroku
+# Note before to comment out the .env file before you upload it to heroku
